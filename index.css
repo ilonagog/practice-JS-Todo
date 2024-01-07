@@ -1,0 +1,22 @@
+p.checked {
+  text-decoration: line-through;
+  color: rgb(232, 238, 240);
+}
+
+.container {
+  width: 500px;
+  display: grid;
+  align-content: center;
+  justify-content: center;
+  background-color: rgb(51, 139, 22);
+  border-radius: 15px;
+}
+button {
+  border-radius: 5px;
+  background-color: yellow;
+}
+#new_todo {
+  border-radius: 15px;
+}
+p {
+}
